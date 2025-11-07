@@ -1,0 +1,313 @@
+{
+  "label": "Anonymous Church Mural Collection",
+  "description": "The church is located on the steep southern slope of the castle of Geraki, to the southwest of the Eleousa (Zoodochos Pigi) and to the south of Agios Dimitrios. It is a single-aisled, barrel-vaulted basilica, the vault of which has now mostly collapsed. In order to protect the wall paintings, a part of it was covered with a wooden, sloping roof by the Archaeological Service. Its internal dimensions are 2.80m x 8.50m, and on its southern wall, there are three blind arches of varying sizes. Inside the church, there is a stone-built templon, of which only the Beautiful Gate constitutes an opening. The existence of a semi-ruined arcosolium and a vaulted tomb on the interior of the northern wall, as well as another arcosolium on the western end of the southern wall, makes it highly probable that the church was funerary, belonging to some notable family of Geraki.",
+  "license": "http://rightsstatements.org/vocab/InC/1.0/",
+  "attribution": "村田研究室",
+  "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": "publisher",
+      "value": "Unknown"
+    },
+    {
+      "label": "date",
+      "value": "ca. 1400"
+    },
+    {
+      "label": "source",
+      "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+    }
+  ],
+  "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-manifest.json",
+  "@type": "sc:Manifest",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "sequences": [
+    {
+      "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/sequence/s1",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "canvases": [
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "eTop"
+            },
+            {
+              "label": "description",
+              "value": "教会を上から見た図"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "eTop",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "width": 10240,
+                "height": 5760,
+                "@id": "https://drive.usercontent.google.com/download?id=11i9m30PXCkyvseETprAgQx25JOGa92k8"
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p1",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p1"
+            }
+          ],
+          "width": 10240,
+          "height": 5760,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p1"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "eNorth"
+            },
+            {
+              "label": "description",
+              "value": "北壁の平面図"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "eNorth",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "width": 10240,
+                "height": 5760,
+                "@id": "https://drive.usercontent.google.com/download?id=1r7DHIvn3uWEnsdMaA7v1tV2rR7r7Fu6E"
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p2",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p2"
+            }
+          ],
+          "width": 10240,
+          "height": 5760,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p2"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "eSouth"
+            },
+            {
+              "label": "description",
+              "value": "南壁の平面図"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "eSouth",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "width": 10240,
+                "height": 5760,
+                "@id": "https://drive.usercontent.google.com/download?id=1dtueJuf9_GiqXINsvuhhMcg7CG6_zhYq"
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p3",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p3"
+            }
+          ],
+          "width": 10240,
+          "height": 5760,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p3"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "eEast"
+            },
+            {
+              "label": "description",
+              "value": "東壁の平面図"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "eEast",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "width": 5760,
+                "height": 10240,
+                "@id": "https://drive.usercontent.google.com/download?id=1RvyHZ73GetN1pyn2SXHGbfn98BnJzfP2"
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p4",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p4"
+            }
+          ],
+          "width": 5760,
+          "height": 10240,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p4"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "eWest"
+            },
+            {
+              "label": "description",
+              "value": "西壁の平面図"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "eWest",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/png",
+                "width": 5760,
+                "height": 10240,
+                "@id": "https://drive.usercontent.google.com/download?id=175gEemtT-z-YuHtFbHb2ALWFBEU8iaUI"
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p5",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p5"
+            }
+          ],
+          "width": 5760,
+          "height": 10240,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p5"
+        },
+      ]
+    }
+  ]
+}
