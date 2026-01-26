@@ -1,0 +1,8 @@
+label,image_filename,Manifest_Label,Manifest_Summary,license,Attribution,viewingDirection,Description,Title,Hierarchy_Level,Includes
+ground,e_ground.jpg,Anonymous Church Mural Collection,ギリシャのラコニア地方のイェラキ村（Geraki)に位置する。この地域では、ビザンツ帝国がフランク族からラコニアを奪還した13世紀以降、多くの聖堂が建てられた。地域内の聖堂壁画には比較的良好な状態の多種多様なギリシャ正教の作例が集中している。この聖堂は、単廊式のかまぼこ天井を持つ小規模な聖堂で、内部の大きさは幅2.80m x 長さ8.50mである。東壁面の半ドーム部分すなわち祭壇奥の後陣（アプシス）には聖母マリア像、南壁面には大きさの異なる3つのブラインド・アーチがあり、２つのアーチとその間に壁画がある。北壁面には、半ば崩壊したアルコソリウム（アーチ状の墓所）があり、正面・側面に装飾文様が描かれている。1400年頃、あるいはそれより少し前に建てられたと推測され、天井の大部分は崩落しているが、壁画を保護するためギリシャ現地の考古学局によって一部が木造の片流れ屋根で覆われている。一般的に、聖堂の名称は捧げられる対象を指す（例えば、ミカエルに捧げる聖堂であればミカエル聖堂）が、この聖堂の壁画は崩落によりそれが不明の状態にある。故に、Anonymous（＝匿名の、名前のない）聖堂と呼ばれている。イェラキの名家のための埋葬用の教会堂であった可能性が高いと見られている。,http://rightsstatements.org/vocab/InC/1.0/,村田研究室,left-to-right,教会を上から見た図,平面図,Level1=wall,null
+Plate 1,e_east1.jpg,,,,,,墓所より手前から見た東壁の平面図,東壁（手前）,Level1=wall,null
+Plate 2,e_east2.jpg,,,,,,墓所より奥から見た東壁の平面図,東壁（奥）,Level1=wall,null
+Plate 3,e_east3.jpg,,,,,,東壁の壁画を正面から見た図,東壁,Level1=wall,null
+Plate 4,e_north.jpg,,,,,,北壁の平面図,北壁,Level1=wall,null
+Plate 5,e_south.jpg,,,,,,南壁の平面図,南壁,Level1=wall,null
+Plate 6,e_west.jpg,,,,,,西壁の平面図,西壁,Level1=wall,null

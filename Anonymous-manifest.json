@@ -1,0 +1,292 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://www.u.tsukuba.ac.jp/~s2211717/Anonymous-manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Anonymous Church Mural Collection",
+  "sequences": [
+    {
+      "@id": "https://www.u.tsukuba.ac.jp/~s2211717/sequence/s1",
+      "@type": "sc:Sequence",
+      "label": "Current Page Order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_ground",
+          "@type": "sc:Canvas",
+          "label": "ground",
+          "height": 6000,
+          "width": 12000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "平面図"
+            },
+            {
+              "label": "Description",
+              "value": "教会を上から見た図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "null"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_ground.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6000,
+                "width": 12000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_ground"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east1",
+          "@type": "sc:Canvas",
+          "label": "Plate 1",
+          "height": 8000,
+          "width": 8000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "東壁（手前）"
+            },
+            {
+              "label": "Description",
+              "value": "墓所より手前から見た東壁の平面図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&lang=ja"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_east1.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8000,
+                "width": 8000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east1"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east2",
+          "@type": "sc:Canvas",
+          "label": "Plate 2",
+          "height": 8000,
+          "width": 8000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "東壁（奥）"
+            },
+            {
+              "label": "Description",
+              "value": "墓所より奥から見た東壁の平面図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=2&lang=ja"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_east2.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8000,
+                "width": 8000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east2"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3",
+          "@type": "sc:Canvas",
+          "label": "Plate 3",
+          "height": 8000,
+          "width": 8000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "東壁"
+            },
+            {
+              "label": "Description",
+              "value": "東壁の壁画を正面から見た図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=3&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=4&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=5&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=6&lang=ja"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_east3.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8000,
+                "width": 8000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_north",
+          "@type": "sc:Canvas",
+          "label": "Plate 4",
+          "height": 6000,
+          "width": 12000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "北壁"
+            },
+            {
+              "label": "Description",
+              "value": "北壁の平面図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=15&lang=ja"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_north.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6000,
+                "width": 12000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_north"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south",
+          "@type": "sc:Canvas",
+          "label": "Plate 5",
+          "height": 6000,
+          "width": 12000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "南壁"
+            },
+            {
+              "label": "Description",
+              "value": "南壁の平面図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=7&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=12&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=11&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=8&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=9&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=10&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=13&lang=ja, https://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?curation=https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a&pos=14&lang=ja"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_south.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6000,
+                "width": 12000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south"
+            }
+          ]
+        },
+        {
+          "@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_west",
+          "@type": "sc:Canvas",
+          "label": "Plate 6",
+          "height": 8000,
+          "width": 8000,
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "西壁"
+            },
+            {
+              "label": "Description",
+              "value": "西壁の平面図"
+            },
+            {
+              "label": "Hierarchy_Level",
+              "value": "Level1=wall"
+            },
+            {
+              "label": "Includes",
+              "value": "null"
+            }
+          ],
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.u.tsukuba.ac.jp/~s2211717/e_west.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8000,
+                "width": 8000
+              },
+              "on": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_west"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "ギリシャのラコニア地方のイェラキ村（Geraki)に位置する。この地域では、ビザンツ帝国がフランク族からラコニアを奪還した13世紀以降、多くの聖堂が建てられた。地域内の聖堂壁画には比較的良好な状態の多種多様なギリシャ正教の作例が集中している。この聖堂は、単廊式のかまぼこ天井を持つ小規模な聖堂で、内部の大きさは幅2.80m x 長さ8.50mである。東壁面の半ドーム部分すなわち祭壇奥の後陣（アプシス）には聖母マリア像、南壁面には大きさの異なる3つのブラインド・アーチがあり、２つのアーチとその間に壁画がある。北壁面には、半ば崩壊したアルコソリウム（アーチ状の墓所）があり、正面・側面に装飾文様が描かれている。1400年頃、あるいはそれより少し前に建てられたと推測され、天井の大部分は崩落しているが、壁画を保護するためギリシャ現地の考古学局によって一部が木造の片流れ屋根で覆われている。一般的に、聖堂の名称は捧げられる対象を指す（例えば、ミカエルに捧げる聖堂であればミカエル聖堂）が、この聖堂の壁画は崩落によりそれが不明の状態にある。故に、Anonymous（＝匿名の、名前のない）聖堂と呼ばれている。イェラキの名家のための埋葬用の教会堂であった可能性が高いと見られている。",
+  "license": "http://rightsstatements.org/vocab/InC/1.0/",
+  "attribution": "村田研究室"
+}
