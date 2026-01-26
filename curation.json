@@ -1,0 +1,113 @@
+{
+	"@context": [
+		"http://iiif.io/api/presentation/2/context.json",
+		"http://codh.rois.ac.jp/iiif/curation/1/context.json"
+	],
+	"@type": "cr:Curation",
+	"@id": "https://mp.ex.nii.ac.jp/api/curation/json/390322e0-cbd8-47e7-b0a9-387584001d0a",
+	"label": "Curation list",
+	"selections": [
+		{
+			"@id": "https://www.u.tsukuba.ac.jp/~s2211717/Anonymous-manifest.json/range/r1",
+			"@type": "sc:Range",
+			"label": "Manual curation by IIIF Curation Viewer",
+			"members": [
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east1#xywh=2591,4860,600,1096",
+					"@type": "sc:Canvas",
+					"label": "Plate 1",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east2#xywh=2527,5484,1024,554",
+					"@type": "sc:Canvas",
+					"label": "Plate 2",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3#xywh=1653,1713,4864,2296",
+					"@type": "sc:Canvas",
+					"label": "Plate 3",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3#xywh=2189,2361,1016,1064",
+					"@type": "sc:Canvas",
+					"label": "Plate 3",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3#xywh=4861,2329,1016,1048",
+					"@type": "sc:Canvas",
+					"label": "Plate 3",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_east3#xywh=1837,1993,4384,1648",
+					"@type": "sc:Canvas",
+					"label": "Plate 3",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=3267,3020,1588,1836",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=3511,3276,504,1508",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=3983,3520,316,380",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=4287,3244,500,1524",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=4883,3240,500,1676",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=5415,3220,1132,1684",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=5499,3280,1008,1384",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_south#xywh=5843,4452,656,424",
+					"@type": "sc:Canvas",
+					"label": "Plate 5",
+					"description": ""
+				},
+				{
+					"@id": "https://www.u.tsukuba.ac.jp/~s2211717/canvas/e_north#xywh=5973,3841,2392,1728",
+					"@type": "sc:Canvas",
+					"label": "Plate 4",
+					"description": ""
+				}
+			],
+			"within": {
+				"@id": "https://www.u.tsukuba.ac.jp/~s2211717/Anonymous-manifest.json",
+				"@type": "sc:Manifest",
+				"label": "Anonymous Church Mural Collection"
+			}
+		}
+	]
+}
